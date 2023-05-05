@@ -6,7 +6,7 @@
 <body>
 	<h1>Welcome Programmers</h1>
 	
-<p>This website is PRADEEP NAHAK Sunathara GAnjamv9.0.</p>
+<p>This website is PRADEEP NAHAK Sunathara Ganjam v10.0.</p>
 
 
 </body>
