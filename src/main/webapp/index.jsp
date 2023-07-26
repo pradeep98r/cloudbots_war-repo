@@ -7,7 +7,7 @@
 <title>Pradeep Registration Form</title>
 </head>
 <body>
-<h1>M.K.C.G Register Form</h1>
+<h1>Raghunatah Register Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
