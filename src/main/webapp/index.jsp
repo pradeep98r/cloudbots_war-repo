@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Pradeep Registration Form</title>
+<title>Raghunatha bastralaya bhatakumarada Registration Form</title>
 </head>
 <body>
 <h1>Raghunatah Register Form</h1>
