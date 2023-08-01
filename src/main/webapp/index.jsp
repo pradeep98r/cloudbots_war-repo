@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Raghunatah Register Form</h1>
-<form action="guru_register" method="post">
+<form action="Raghuregi_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name of the employee</td>
